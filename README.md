@@ -22,7 +22,7 @@ The dashboard was designed with a business-oriented approach to simulate a real-
 * Superstore Sales Dataset (Kaggle)
 
 Dataset Link:
-[https://www.kaggle.com/datasets/vivek468/superstore-dataset-final](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+[https://www.kaggle.com/datasets/vivek468/superstore-dataset-final](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## Dashboard Overview
 
