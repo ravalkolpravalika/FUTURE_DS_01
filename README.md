@@ -28,9 +28,9 @@ Dataset Link:
 
 The project consists of multiple dashboards designed to analyze different areas of business performance.
 
-### Executive Overview Dashboard
+### Business Sales Performance Dashboard
 
-The Executive Overview Dashboard provides a high-level summary of business performance using KPI cards and trend analysis. It includes metrics such as total revenue, net profit, total orders, and average discount rate. Additional visualizations were created to analyze monthly revenue trends, category-wise revenue contribution, customer segment analysis, and the impact of discounts on profitability.
+The Business Sales Performance Dashboard provides a high-level summary of business performance using KPI cards and trend analysis. It includes metrics such as total revenue, net profit, total orders, and average discount rate. Additional visualizations were created to analyze monthly revenue trends, category-wise revenue contribution, customer segment analysis, and the impact of discounts on profitability.
 
 ### Sales & Profit Dashboard
 
